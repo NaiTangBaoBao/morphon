@@ -5,3 +5,6 @@
 *.tar.gz
 *.zip
 SHA256SUMS
+
+# Apple metadata
+._*
