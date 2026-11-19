@@ -1,0 +1,7 @@
+# .DS_Store
+.DS_Store
+
+# Release downloads are attached to GitHub Releases, not committed here.
+*.tar.gz
+*.zip
+SHA256SUMS
