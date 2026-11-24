@@ -19,7 +19,7 @@ Prebuilt applications are available from [GitHub Releases](https://github.com/Na
 
 Current release: **0.1.0 Alpha 1 — Early Preview**.
 
-See the [installation guide](docs/install.md). Release binaries are attached to their release; this repository does not commit binary files.
+See the [installation guide](docs/install.md). Release binaries are attached to their release. This repository does not commit release executables.
 
 ## Product tour
 
